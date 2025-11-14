@@ -47,6 +47,7 @@ Boxplot	Fare_Price	Outlier/anomaly visualization [Boxplot]​
 Pairplot	Numerical columns	Feature relationship plot [Pairplot]​
 Correlation Matrix	Numerical columns	Correlation heatmap [Correlation]​
 Key Visualizations
+
 Histogram of Age
 [Histogram-of-Age_Years.png]​
 
