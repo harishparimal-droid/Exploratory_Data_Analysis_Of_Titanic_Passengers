@@ -42,22 +42,22 @@ Inputs and Outputs
 Step	Input	Output
 Data Loading	Final-Titanic-Dataset.csv	Pandas DataFrame
 Statistical Summary	Numeric columns	Summary table (mean, std, min, max, etc.)
-Histogram	Age_Years	Age distribution plot ![Histogram]​
-Boxplot	Fare_Price	Outlier/anomaly visualization ![Boxplot]​
-Pairplot	Numerical columns	Feature relationship plot ![Pairplot]​
-Correlation Matrix	Numerical columns	Correlation heatmap ![Correlation]​
+Histogram	Age_Years	Age distribution plot [Histogram]​
+Boxplot	Fare_Price	Outlier/anomaly visualization [Boxplot]​
+Pairplot	Numerical columns	Feature relationship plot [Pairplot]​
+Correlation Matrix	Numerical columns	Correlation heatmap [Correlation]​
 Key Visualizations
 Histogram of Age
-![Histogram-of-Age_Years.jpg]​
+[Histogram-of-Age_Years.jpg]​
 
 Boxplot of Fare
-![Boxplot-of-Fair_Price.jpg]​
+[Boxplot-of-Fair_Price.jpg]​
 
 Correlation Matrix Heatmap
-![Correlation-Matrix.jpg]​
+[Correlation-Matrix.jpg]​
 
 Pairplot for Numeric Features
-![Pairplot-for-Numeric-Values.jpg]​
+[Pairplot-for-Numeric-Values.jpg]​
 
 Observations & Insights
 Age distribution is approximately normal with some missing values and a concentration in young adults.
