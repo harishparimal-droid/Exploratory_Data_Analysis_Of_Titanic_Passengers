@@ -48,16 +48,16 @@ Pairplot	Numerical columns	Feature relationship plot [Pairplot]​
 Correlation Matrix	Numerical columns	Correlation heatmap [Correlation]​
 Key Visualizations
 Histogram of Age
-[Histogram-of-Age_Years.jpg]​
+[Histogram-of-Age_Years.png]​
 
 Boxplot of Fare
-[Boxplot-of-Fair_Price.jpg]​
+[Boxplot-of-Fair_Price.png]​
 
 Correlation Matrix Heatmap
-[Correlation-Matrix.jpg]​
+[Correlation-Matrix.png]​
 
 Pairplot for Numeric Features
-[Pairplot-for-Numeric-Values.jpg]​
+[Pairplot-for-Numeric-Values.png]
 
 Observations & Insights
 Age distribution is approximately normal with some missing values and a concentration in young adults.
